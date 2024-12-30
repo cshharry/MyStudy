@@ -16,6 +16,8 @@
 | 1 | 2024-08-22  | 정적라우팅과 동적라우팅 / VLAN과 TRUNK  | Cisco IOS ,GNS3 | [Notion 링크](https://www.notion.so/0822-VLAN-TRUNK-3f0ab2add9d94ac5b49b4e1282fe0e85?pvs=4) |
 | 2 | 2024-08-23  | STP / EtherChannel  | Cisco IOS ,GNS3 | [Notion 링크](https://coffee-impala-592.notion.site/0823-STP-EtherChannel-e0b856585624406bb024629360a4ed04?pvs=4) |
 | 3 | 2024-08-26  | ACL / OSPF  | Cisco IOS ,GNS3 | [Notion 링크](https://coffee-impala-592.notion.site/0826-ACL-OSPF-7ad8c16b938943e6876d97df9a0120b4?pvs=4) |
+| 4 | 2024-08-27  | SPF / NAT  | Cisco IOS ,GNS3 | [Notion 링크](https://coffee-impala-592.notion.site/0827-SPF-NAT-d4e147e04fad430db5f55e9bd3119c0c?pvs=4) |
+<br>
 <br>
 
 
