@@ -14,6 +14,7 @@
 | No | 날짜       | 제목                     |  스택                   | 링크                           |
 |----|------------|-------------------------|---------------------------------|------------------------|
 | 1 | 2024-08-22  | 정적라우팅과 동적라우팅 / VLAN과 TRUNK  | Cisco IOS ,GNS3 | [Notion 링크](https://www.notion.so/0822-VLAN-TRUNK-3f0ab2add9d94ac5b49b4e1282fe0e85?pvs=4) |
+| 2 | 2024-08-23  | 정적라우팅과 동적라우팅 / VLAN과 TRUNK  | Cisco IOS ,GNS3 | [Notion 링크](https://coffee-impala-592.notion.site/0823-STP-EtherChannel-e0b856585624406bb024629360a4ed04?pvs=4) |
 <br>
 
 
