@@ -1,6 +1,6 @@
 # 🤗 MyStudy
 
-*최종 업데이트: 2024년 12월 30일*
+*최종 업데이트: 2025년 1월 11일*
 
 <br>
 
@@ -18,6 +18,7 @@
 | 3 | 2024-08-26  | ACL / OSPF  | Cisco IOS ,GNS3 | [Notion 링크](https://coffee-impala-592.notion.site/0826-ACL-OSPF-7ad8c16b938943e6876d97df9a0120b4?pvs=4) |
 | 4 | 2024-08-27  | SPF / NAT  | Cisco IOS ,GNS3 | [Notion 링크](https://coffee-impala-592.notion.site/0827-SPF-NAT-d4e147e04fad430db5f55e9bd3119c0c?pvs=4) |
 | 5 | 2024-08-28  | 장치강화 / vSphere환경  | vSphere | [Notion 링크](https://coffee-impala-592.notion.site/0828-VM-vSphere-2595ba2221754e04aca9689b2ee1b535?pvs=4) |
+| 6 | 2024-08-29  | vSphere환경 / vSwitch  | vSphere | [Notion 링크](https://coffee-impala-592.notion.site/0829-vSphere-vSwitch-6fa4cc2aa03045698eb3640b4f537698?pvs=4) |
 <br>
 <br>
 
