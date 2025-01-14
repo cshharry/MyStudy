@@ -20,6 +20,7 @@
 | 5 | 2024-08-28  | 장치강화 / vSphere환경  | vSphere | [Notion 링크](https://coffee-impala-592.notion.site/0828-VM-vSphere-2595ba2221754e04aca9689b2ee1b535?pvs=4) |
 | 6 | 2024-08-29  | vSphere환경 / vSwitch  | vSphere | [Notion 링크](https://coffee-impala-592.notion.site/0829-vSphere-vSwitch-6fa4cc2aa03045698eb3640b4f537698?pvs=4) |
 | 7 | 2024-08-30  | VDS / NIC팀잉 / NAT  | vSphere, Cisco IOS ,GNS3 | [Notion 링크](https://coffee-impala-592.notion.site/0830-vDS-NIC-NAT-bd4113ec35b148cd91ff3c4d38d691f5?pvs=4) |
+| 8 | 2024-09-02  | Storage / OSPF | vSphere, Cisco IOS, GNS3 | [Notion 링크](https://coffee-impala-592.notion.site/0902-Storage-OSPF-f5aa777005ba492aa530c262ab54b8fe?pvs=4) |
 <br>
 <br>
 
