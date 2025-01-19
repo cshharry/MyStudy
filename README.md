@@ -22,6 +22,7 @@
 | 7 | 2024-08-30  | VDS / NIC팀잉 / NAT  | vSphere, Cisco IOS ,GNS3 | [Notion 링크](https://coffee-impala-592.notion.site/0830-vDS-NIC-NAT-bd4113ec35b148cd91ff3c4d38d691f5?pvs=4) |
 | 8 | 2024-09-02  | Storage / OSPF | vSphere, Cisco IOS, GNS3 | [Notion 링크](https://coffee-impala-592.notion.site/0902-Storage-OSPF-f5aa777005ba492aa530c262ab54b8fe?pvs=4) |
 | 9 | 2024-09-03  | VM 생성과 Migration | vSphere | [Notion 링크](https://coffee-impala-592.notion.site/0903-VM-Migration-728b5c2e259549b1a99da3f07f97d2fc?pvs=4) |
+| 10 | 2024-09-03  | 리소스관리 / HA / DRS | vmwareHOL | [Notion 링크](https://coffee-impala-592.notion.site/0904-HA-DRS-5568a584772540e7b2dedf069f4e57ac?pvs=4) |
 <br>
 <br>
 
