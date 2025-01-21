@@ -1,6 +1,6 @@
 # 🤗 MyStudy
 
-*최종 업데이트: 2025년 1월 21일*
+*최종 업데이트: 2025년 1월 22일*
 
 <br>
 
@@ -25,6 +25,7 @@
 | 10 | 2024-09-04  | 리소스관리 / HA / DRS | vmwareHOL | [Notion 링크](https://coffee-impala-592.notion.site/0904-HA-DRS-5568a584772540e7b2dedf069f4e57ac?pvs=4) |
 | 11 | 2024-09-05  | DRS / FT / Compability | vmwareHOL | [Notion 링크](https://coffee-impala-592.notion.site/0905-DRS-FT-Compability-41bd528f90fb4ada9cfcc27e12a84ef5?pvs=4) |
 | 12 | 2024-09-06  | NSX | vmwareHOL | [Notion 링크](https://coffee-impala-592.notion.site/0906-NSX-d9b0813a5af54a5994e39e031d7bf1dc?pvs=4) |
+| 12 | 2024-09-09  | Data plane | vmwareHOL | [Notion 링크](https://coffee-impala-592.notion.site/0909-Data-plane-Transport-zone-Transport-node-e79c6fa7fa6343b6a524906854cc1006?pvs=4) |
 <br>
 <br>
 
