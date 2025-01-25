@@ -27,6 +27,7 @@
 | 12 | 2024-09-06  | NSX | vmwareHOL | [Notion 링크](https://coffee-impala-592.notion.site/0906-NSX-d9b0813a5af54a5994e39e031d7bf1dc?pvs=4) |
 | 13 | 2024-09-09  | Data plane | vmwareHOL | [Notion 링크](https://coffee-impala-592.notion.site/0909-Data-plane-Transport-zone-Transport-node-e79c6fa7fa6343b6a524906854cc1006?pvs=4) |
 | 14 | 2024-09-10  | NSX논리라우팅 / DR / SR | vmwareHOL | [Notion 링크](https://coffee-impala-592.notion.site/0910-NSX-DR-SR-GW-d8b5ab294de949c3adce4d7603461adb?pvs=4) |
+| 15 | 2024-09-11  | NSX네트워크 / GW라우팅 / BGP라우팅 | vmwareHOL | [Notion 링크](https://coffee-impala-592.notion.site/0911-NSX-GW-BGP-ECMP-HA-59cedc14f38245738b94c4a0b482793d?pvs=4) |
 <br>
 <br>
 
