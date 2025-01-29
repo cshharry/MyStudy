@@ -1,6 +1,6 @@
 # 🤗 MyStudy
 
-*최종 업데이트: 2025년 1월 29일*
+*최종 업데이트: 2025년 1월 30일*
 
 <br>
 
@@ -40,6 +40,7 @@
 |----|------------|-------------------------|---------------------------------|------------------------|
 | 1 | 2024-09-24  | Docker 설치 | Docker | [Notion 링크](https://coffee-impala-592.notion.site/0924-Docker-10bfb8a990cb80d69004da0add2c6bac?pvs=4) |
 | 2 | 2024-09-25  | NGINX 컨테이너 / Trivy 취약점 스캔 | Docker, NGINX, Trivy | [Notion 링크](https://coffee-impala-592.notion.site/0925-NGINX-Trivy-10bfb8a990cb80c49f01c67129769ab6?pvs=4) |
+| 3 | 2024-09-27  | Docker를 활용한 MySQL 백업 / Jenkins 설정 | Docker, MySQL, Jenkins | [Notion 링크](https://coffee-impala-592.notion.site/0927-10efb8a990cb802db225cc801835af91?pvs=4) |
 
 <br>
 
