@@ -1,6 +1,6 @@
 # 🤗 MyStudy
 
-*최종 업데이트: 2025년 2월 2일*
+*최종 업데이트: 2025년 2월 3일*
 
 <br>
 
@@ -44,6 +44,7 @@
 | 4 | 2024-10-01  | Jenkins SSH / 원격서버 SSH / Minikube | Jenkins, Minikube, NGINX | [Notion 링크](https://coffee-impala-592.notion.site/1001-Jenkins-SSH-SSH-Minikube-112fb8a990cb80519b4ade12ecaeed20?pvs=4) |
 | 5 | 2024-10-02  | K8s / Diagram as Code | Docker, Kubernetes, Python | [Notion 링크](https://coffee-impala-592.notion.site/1002-K8s-DaC-112fb8a990cb8021bcb6c4ada0e3a5a4?pvs=4) |
 | 6 | 2024-10-04  | K8s 네트워크 통신 / AWS 기초 | Docker, Kubernetes, NGINX, AWS | [Notion 링크](https://coffee-impala-592.notion.site/1004-K8s-AWS-115fb8a990cb80dea58dc194569bd3df?pvs=4) |
+| 7 | 2024-10-07  | AWS cli / EKS | Kubernetes, AWS | [Notion 링크](https://coffee-impala-592.notion.site/1007-Aws-cli-EKS-118fb8a990cb804bb1efd99f22da4a02?pvs=4) |
 
 <br>
 
