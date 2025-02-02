@@ -1,6 +1,6 @@
 # 🤗 MyStudy
 
-*최종 업데이트: 2025년 2월 1일*
+*최종 업데이트: 2025년 2월 2일*
 
 <br>
 
@@ -43,6 +43,7 @@
 | 3 | 2024-09-27  | Docker를 활용한 MySQL 백업 / Jenkins 설정 | Docker, MySQL, Jenkins | [Notion 링크](https://coffee-impala-592.notion.site/0927-10efb8a990cb802db225cc801835af91?pvs=4) |
 | 4 | 2024-10-01  | Jenkins SSH / 원격서버 SSH / Minikube | Jenkins, Minikube, NGINX | [Notion 링크](https://coffee-impala-592.notion.site/1001-Jenkins-SSH-SSH-Minikube-112fb8a990cb80519b4ade12ecaeed20?pvs=4) |
 | 5 | 2024-10-02  | K8s / Diagram as Code | Docker, Kubernetes, Python | [Notion 링크](https://coffee-impala-592.notion.site/1002-K8s-DaC-112fb8a990cb8021bcb6c4ada0e3a5a4?pvs=4) |
+| 6 | 2024-10-04  | K8s 네트워크 통신 / AWS 기초 | Docker, Kubernetes, NGINX, AWS | [Notion 링크](https://coffee-impala-592.notion.site/1004-K8s-AWS-115fb8a990cb80dea58dc194569bd3df?pvs=4) |
 
 <br>
 
