@@ -1,6 +1,6 @@
 # 🤗 MyStudy
 
-*최종 업데이트: 2025년 2월 6일*
+*최종 업데이트: 2025년 2월 7일*
 
 <br>
 
@@ -45,7 +45,9 @@
 | 5 | 2024-10-02  | K8s / Diagram as Code | Docker, Kubernetes, Python | [Notion 링크](https://coffee-impala-592.notion.site/1002-K8s-DaC-112fb8a990cb8021bcb6c4ada0e3a5a4?pvs=4) |
 | 6 | 2024-10-04  | K8s 네트워크 통신 / AWS 기초 | Docker, Kubernetes, NGINX, AWS | [Notion 링크](https://coffee-impala-592.notion.site/1004-K8s-AWS-115fb8a990cb80dea58dc194569bd3df?pvs=4) |
 | 7 | 2024-10-07  | AWS cli / EKS | Kubernetes, AWS | [Notion 링크](https://coffee-impala-592.notion.site/1007-Aws-cli-EKS-118fb8a990cb804bb1efd99f22da4a02?pvs=4) |
-| 8 | 2024-10-07  | SCP 및 SSH / 부하테스트 | AWS, JMeter | [Notion 링크](https://coffee-impala-592.notion.site/1008-SCP-SSH-119fb8a990cb80daa8b5cbf043f9018b?pvs=4) |
+| 8 | 2024-10-08  | SCP 및 SSH / 부하테스트 | AWS, JMeter | [Notion 링크](https://coffee-impala-592.notion.site/1008-SCP-SSH-119fb8a990cb80daa8b5cbf043f9018b?pvs=4) |
+| 9 | 2024-10-10  | S3 구축 / RDS 연결 | AWS, MySQL | [Notion 링크](https://coffee-impala-592.notion.site/1010-S3-RDS-11bfb8a990cb80469e93eccf879bb261?pvs=4) |
+
 
 <br>
 
