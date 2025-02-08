@@ -1,6 +1,6 @@
 # 🤗 MyStudy
 
-*최종 업데이트: 2025년 2월 7일*
+*최종 업데이트: 2025년 2월 8일*
 
 <br>
 
@@ -47,6 +47,7 @@
 | 7 | 2024-10-07  | AWS cli / EKS | Kubernetes, AWS | [Notion 링크](https://coffee-impala-592.notion.site/1007-Aws-cli-EKS-118fb8a990cb804bb1efd99f22da4a02?pvs=4) |
 | 8 | 2024-10-08  | SCP 및 SSH / 부하테스트 | AWS, JMeter | [Notion 링크](https://coffee-impala-592.notion.site/1008-SCP-SSH-119fb8a990cb80daa8b5cbf043f9018b?pvs=4) |
 | 9 | 2024-10-10  | S3 구축 / RDS 연결 | AWS, MySQL | [Notion 링크](https://coffee-impala-592.notion.site/1010-S3-RDS-11bfb8a990cb80469e93eccf879bb261?pvs=4) |
+| 10 | 2024-10-11  | 경보 생성 / CI/CD 파이프라인 구축 | AWS, ngrok, Jenkins, MySQL | [Notion 링크](https://coffee-impala-592.notion.site/1011-CI-CD-11cfb8a990cb80b693cdea314217443b?pvs=4) |
 
 
 <br>
