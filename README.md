@@ -1,6 +1,6 @@
 # 🤗 MyStudy
 
-*최종 업데이트: 2025년 2월 10일*
+*최종 업데이트: 2025년 2월 11일*
 
 <br>
 
@@ -49,6 +49,8 @@
 | 9 | 2024-10-10  | S3 구축 / RDS 연결 | AWS, MySQL | [Notion 링크](https://coffee-impala-592.notion.site/1010-S3-RDS-11bfb8a990cb80469e93eccf879bb261?pvs=4) |
 | 10 | 2024-10-11  | 경보 생성 / CI/CD 파이프라인 구축 | AWS, ngrok, Jenkins, MySQL | [Notion 링크](https://coffee-impala-592.notion.site/1011-CI-CD-11cfb8a990cb80b693cdea314217443b?pvs=4) |
 | 11 | 2024-10-15  | AWS 서버리스 서비스 구축 | AWS | [Notion 링크](https://coffee-impala-592.notion.site/1015-AWS-Lambda-11efb8a990cb80c8b910c480b4d9d199?pvs=4) |
+| 12 | 2024-10-16  | IaC환경 구축 | AWS, Terraform | [Notion 링크](https://coffee-impala-592.notion.site/1016-IaC-121fb8a990cb80edbff5f51a9e66c115?pvs=4) |
+
 
 
 <br>
